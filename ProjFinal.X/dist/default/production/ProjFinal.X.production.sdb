@@ -1,0 +1,716 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F4520 ]
+[d frameptr 4065 ]
+"27 C:\Users\Windows\MPLABXProjects\ProjFinal.X\adc.c
+[e E2357 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"36 C:\Users\Windows\MPLABXProjects\ProjFinal.X\keypad.c
+[e E9 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"19 C:\Users\Windows\MPLABXProjects\ProjFinal.X\lcd.c
+[e E5 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"5 C:\Users\Windows\MPLABXProjects\ProjFinal.X\rgb.c
+[e E2 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"4 C:\Users\Windows\MPLABXProjects\ProjFinal.X\so.c
+[e E2 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"54 C:\Users\Windows\MPLABXProjects\ProjFinal.X\ssd.c
+[e E7 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"25 C:\Users\Windows\MPLABXProjects\ProjFinal.X\adc.c
+[v _adcInit adcInit `(v  1 e 1 0 ]
+"38
+[v _adcRead adcRead `(i  1 e 2 0 ]
+"2 C:\Users\Windows\MPLABXProjects\ProjFinal.X\atraso.c
+[v _atraso_ms atraso_ms `(v  1 e 1 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"14 C:\Users\Windows\MPLABXProjects\ProjFinal.X\io.c
+[v _digitalWrite digitalWrite `(v  1 e 1 0 ]
+"39
+[v _digitalRead digitalRead `(i  1 e 2 0 ]
+"54
+[v _pinMode pinMode `(v  1 e 1 0 ]
+"14 C:\Users\Windows\MPLABXProjects\ProjFinal.X\keypad.c
+[v _kpRead kpRead `(ui  1 e 2 0 ]
+"27
+[v _kpDebounce kpDebounce `(v  1 e 1 0 ]
+"54
+[v _kpInit kpInit `(v  1 e 1 0 ]
+"5 C:\Users\Windows\MPLABXProjects\ProjFinal.X\lcd.c
+[v _delayMicro delayMicro `(v  1 e 1 0 ]
+"10
+[v _delayMili delayMili `(v  1 e 1 0 ]
+"18
+[v _pulseEnablePin pulseEnablePin `(v  1 e 1 0 ]
+"25
+[v _pushNibble pushNibble `(v  1 e 1 0 ]
+"31
+[v _pushByte pushByte `(v  1 e 1 0 ]
+"40
+[v _lcdCommand lcdCommand `(v  1 e 1 0 ]
+"44
+[v _lcdPosition lcdPosition `(v  1 e 1 0 ]
+"52
+[v _lcdChar lcdChar `(v  1 e 1 0 ]
+"57
+[v _lcdString lcdString `(v  1 e 1 0 ]
+"72
+[v _lcdInit lcdInit `(v  1 e 1 0 ]
+"11 C:\Users\Windows\MPLABXProjects\ProjFinal.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"24 C:\Users\Windows\MPLABXProjects\ProjFinal.X\pwm.c
+[v _pwmSet pwmSet `(v  1 e 1 0 ]
+"44
+[v _pwmFrequency pwmFrequency `(v  1 e 1 0 ]
+"51
+[v _pwmInit pwmInit `(v  1 e 1 0 ]
+"3 C:\Users\Windows\MPLABXProjects\ProjFinal.X\so.c
+[v _soInit soInit `(v  1 e 1 0 ]
+"9
+[v _PulseEnClock PulseEnClock `(v  1 e 1 0 ]
+"14
+[v _PulseClockData PulseClockData `(v  1 e 1 0 ]
+"18
+[v _soWrite soWrite `(v  1 e 1 0 ]
+"34 C:\Users\Windows\MPLABXProjects\ProjFinal.X\ssd.c
+[v _ssdDigit ssdDigit `(v  1 e 1 0 ]
+"50
+[v _ssdUpdate ssdUpdate `(v  1 e 1 0 ]
+"94
+[v _ssdInit ssdInit `(v  1 e 1 0 ]
+"52 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC18Fxxxx_DFP/1.2.26/xc8\pic\include\proc\pic18f4520.h
+[v _PORTA PORTA `VEuc  1 e 1 @3968 ]
+"271
+[v _PORTB PORTB `VEuc  1 e 1 @3969 ]
+"450
+[v _PORTC PORTC `VEuc  1 e 1 @3970 ]
+"632
+[v _PORTD PORTD `VEuc  1 e 1 @3971 ]
+"774
+[v _PORTE PORTE `VEuc  1 e 1 @3972 ]
+"1477
+[v _TRISA TRISA `VEuc  1 e 1 @3986 ]
+"1699
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"1921
+[v _TRISC TRISC `VEuc  1 e 1 @3988 ]
+"2143
+[v _TRISD TRISD `VEuc  1 e 1 @3989 ]
+"2365
+[v _TRISE TRISE `VEuc  1 e 1 @3990 ]
+"2671
+[v _PIR1 PIR1 `VEuc  1 e 1 @3998 ]
+"3110
+[v _RCSTA RCSTA `VEuc  1 e 1 @4011 ]
+"3320
+[v _TXSTA TXSTA `VEuc  1 e 1 @4012 ]
+"3576
+[v _TXREG TXREG `VEuc  1 e 1 @4013 ]
+"3588
+[v _RCREG RCREG `VEuc  1 e 1 @4014 ]
+"3600
+[v _SPBRG SPBRG `VEuc  1 e 1 @4015 ]
+"3612
+[v _SPBRGH SPBRGH `VEuc  1 e 1 @4016 ]
+"4221
+[v _BAUDCON BAUDCON `VEuc  1 e 1 @4024 ]
+"4401
+[v _CCP2CON CCP2CON `VEuc  1 e 1 @4026 ]
+"4487
+[v _CCPR2L CCPR2L `VEuc  1 e 1 @4027 ]
+"4619
+[v _ADCON2 ADCON2 `VEuc  1 e 1 @4032 ]
+"4690
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @4033 ]
+"4775
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @4034 ]
+"4901
+[v _ADRESL ADRESL `VEuc  1 e 1 @4035 ]
+"4908
+[v _ADRESH ADRESH `VEuc  1 e 1 @4036 ]
+"5315
+[v _T2CON T2CON `VEuc  1 e 1 @4042 ]
+"5413
+[v _PR2 PR2 `VEuc  1 e 1 @4043 ]
+"6 C:\Users\Windows\MPLABXProjects\ProjFinal.X\keypad.c
+[v _keys keys `ui  1 s 2 keys ]
+"28 C:\Users\Windows\MPLABXProjects\ProjFinal.X\ssd.c
+[v _valor valor `C[16]uc  1 s 16 valor ]
+"30
+[v _display display `uc  1 s 1 display ]
+"32
+[v _v0 v0 `uc  1 s 1 v0 ]
+[v _v1 v1 `uc  1 s 1 v1 ]
+[v _v2 v2 `uc  1 s 1 v2 ]
+[v _v3 v3 `uc  1 s 1 v3 ]
+"11 C:\Users\Windows\MPLABXProjects\ProjFinal.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"13
+[v main@ultimoAlt ultimoAlt `[8]i  1 a 16 32 ]
+"14
+[v main@leds leds `[7]uc  1 a 7 25 ]
+"12
+[v main@altitude altitude `i  1 a 2 57 ]
+"16
+[v main@tecla tecla `ui  1 a 2 55 ]
+"12
+[v main@mudancaGradual mudancaGradual `i  1 a 2 48 ]
+"15
+[v main@k k `uc  1 a 1 54 ]
+[v main@j j `uc  1 a 1 53 ]
+[v main@slot slot `uc  1 a 1 52 ]
+[v main@pwmVal pwmVal `uc  1 a 1 51 ]
+[v main@op op `uc  1 a 1 50 ]
+"12
+[v main@F2388 F2388 `[8]i  1 s 16 F2388 ]
+"13
+[v main@F2390 F2390 `[7]uc  1 s 7 F2390 ]
+"120
+} 0
+"50 C:\Users\Windows\MPLABXProjects\ProjFinal.X\ssd.c
+[v _ssdUpdate ssdUpdate `(v  1 e 1 0 ]
+{
+"92
+} 0
+"94
+[v _ssdInit ssdInit `(v  1 e 1 0 ]
+{
+"104
+} 0
+"34
+[v _ssdDigit ssdDigit `(v  1 e 1 0 ]
+{
+[v ssdDigit@val val `uc  1 a 1 wreg ]
+[v ssdDigit@val val `uc  1 a 1 wreg ]
+[v ssdDigit@pos pos `uc  1 p 1 14 ]
+[v ssdDigit@val val `uc  1 a 1 15 ]
+"48
+} 0
+"24 C:\Users\Windows\MPLABXProjects\ProjFinal.X\pwm.c
+[v _pwmSet pwmSet `(v  1 e 1 0 ]
+{
+[v pwmSet@porcento porcento `uc  1 a 1 wreg ]
+"31
+[v pwmSet@val val `ui  1 a 2 10 ]
+"24
+[v pwmSet@porcento porcento `uc  1 a 1 wreg ]
+"31
+[v pwmSet@porcento porcento `uc  1 a 1 9 ]
+"41
+} 0
+"15 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+{
+"17
+[v ___wmul@product product `ui  1 a 2 4 ]
+"15
+[v ___wmul@multiplier multiplier `ui  1 p 2 0 ]
+[v ___wmul@multiplicand multiplicand `ui  1 p 2 2 ]
+"53
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+{
+"10
+[v ___lwdiv@quotient quotient `ui  1 a 2 4 ]
+"11
+[v ___lwdiv@counter counter `uc  1 a 1 6 ]
+"7
+[v ___lwdiv@dividend dividend `ui  1 p 2 0 ]
+[v ___lwdiv@divisor divisor `ui  1 p 2 2 ]
+"30
+} 0
+"51 C:\Users\Windows\MPLABXProjects\ProjFinal.X\pwm.c
+[v _pwmInit pwmInit `(v  1 e 1 0 ]
+{
+"61
+} 0
+"44
+[v _pwmFrequency pwmFrequency `(v  1 e 1 0 ]
+{
+[v pwmFrequency@freq freq `ui  1 p 2 14 ]
+"49
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+{
+"10
+[v ___aldiv@quotient quotient `l  1 a 4 10 ]
+"11
+[v ___aldiv@sign sign `uc  1 a 1 9 ]
+[v ___aldiv@counter counter `uc  1 a 1 8 ]
+"7
+[v ___aldiv@dividend dividend `l  1 p 4 0 ]
+[v ___aldiv@divisor divisor `l  1 p 4 4 ]
+"41
+} 0
+"57 C:\Users\Windows\MPLABXProjects\ProjFinal.X\lcd.c
+[v _lcdString lcdString `(v  1 e 1 0 ]
+{
+"58
+[v lcdString@i i `i  1 a 2 18 ]
+"57
+[v lcdString@msg msg `*.25uc  1 p 2 14 ]
+"63
+} 0
+"52
+[v _lcdChar lcdChar `(v  1 e 1 0 ]
+{
+[v lcdChar@value value `uc  1 a 1 wreg ]
+[v lcdChar@value value `uc  1 a 1 wreg ]
+[v lcdChar@value value `uc  1 a 1 13 ]
+"55
+} 0
+"44
+[v _lcdPosition lcdPosition `(v  1 e 1 0 ]
+{
+[v lcdPosition@line line `i  1 p 2 14 ]
+[v lcdPosition@col col `i  1 p 2 16 ]
+"51
+} 0
+"72
+[v _lcdInit lcdInit `(v  1 e 1 0 ]
+{
+"91
+} 0
+"25
+[v _pushNibble pushNibble `(v  1 e 1 0 ]
+{
+[v pushNibble@value value `uc  1 a 1 wreg ]
+[v pushNibble@value value `uc  1 a 1 wreg ]
+[v pushNibble@rs rs `i  1 p 2 9 ]
+[v pushNibble@value value `uc  1 a 1 11 ]
+"29
+} 0
+"40
+[v _lcdCommand lcdCommand `(v  1 e 1 0 ]
+{
+[v lcdCommand@value value `uc  1 a 1 wreg ]
+[v lcdCommand@value value `uc  1 a 1 wreg ]
+[v lcdCommand@value value `uc  1 a 1 13 ]
+"43
+} 0
+"31
+[v _pushByte pushByte `(v  1 e 1 0 ]
+{
+[v pushByte@value value `uc  1 a 1 wreg ]
+[v pushByte@value value `uc  1 a 1 wreg ]
+[v pushByte@rs rs `i  1 p 2 9 ]
+[v pushByte@value value `uc  1 a 1 12 ]
+"39
+} 0
+"18
+[v _pulseEnablePin pulseEnablePin `(v  1 e 1 0 ]
+{
+"23
+} 0
+"5
+[v _delayMicro delayMicro `(v  1 e 1 0 ]
+{
+[v delayMicro@a a `i  1 p 2 0 ]
+"9
+} 0
+"10
+[v _delayMili delayMili `(v  1 e 1 0 ]
+{
+"11
+[v delayMili@i i `VEi  1 a 2 3 ]
+"10
+[v delayMili@a a `i  1 p 2 0 ]
+"16
+} 0
+"14 C:\Users\Windows\MPLABXProjects\ProjFinal.X\keypad.c
+[v _kpRead kpRead `(ui  1 e 2 0 ]
+{
+"16
+} 0
+"54
+[v _kpInit kpInit `(v  1 e 1 0 ]
+{
+"59
+} 0
+"3 C:\Users\Windows\MPLABXProjects\ProjFinal.X\so.c
+[v _soInit soInit `(v  1 e 1 0 ]
+{
+"7
+} 0
+"27 C:\Users\Windows\MPLABXProjects\ProjFinal.X\keypad.c
+[v _kpDebounce kpDebounce `(v  1 e 1 0 ]
+{
+"28
+[v kpDebounce@i i `i  1 a 2 12 ]
+"29
+[v kpDebounce@tempo tempo `uc  1 s 1 tempo ]
+"30
+[v kpDebounce@newRead newRead `ui  1 s 2 newRead ]
+"31
+[v kpDebounce@oldRead oldRead `ui  1 s 2 oldRead ]
+"52
+} 0
+"18 C:\Users\Windows\MPLABXProjects\ProjFinal.X\so.c
+[v _soWrite soWrite `(v  1 e 1 0 ]
+{
+"19
+[v soWrite@i i `uc  1 a 1 8 ]
+"18
+[v soWrite@value value `i  1 p 2 6 ]
+"27
+} 0
+"9
+[v _PulseEnClock PulseEnClock `(v  1 e 1 0 ]
+{
+"12
+} 0
+"14
+[v _PulseClockData PulseClockData `(v  1 e 1 0 ]
+{
+"17
+} 0
+"14 C:\Users\Windows\MPLABXProjects\ProjFinal.X\io.c
+[v _digitalWrite digitalWrite `(v  1 e 1 0 ]
+{
+[v digitalWrite@pin pin `i  1 p 2 0 ]
+[v digitalWrite@value value `i  1 p 2 2 ]
+"38
+} 0
+"39
+[v _digitalRead digitalRead `(i  1 e 2 0 ]
+{
+[v digitalRead@pin pin `i  1 p 2 0 ]
+"52
+} 0
+"2 C:\Users\Windows\MPLABXProjects\ProjFinal.X\atraso.c
+[v _atraso_ms atraso_ms `(v  1 e 1 0 ]
+{
+"4
+[v atraso_ms@i i `i  1 a 2 2 ]
+"3
+[v atraso_ms@k k `VEuc  1 a 1 5 ]
+[v atraso_ms@j j `VEuc  1 a 1 4 ]
+"2
+[v atraso_ms@num num `ui  1 p 2 0 ]
+"10
+} 0
+"38 C:\Users\Windows\MPLABXProjects\ProjFinal.X\adc.c
+[v _adcRead adcRead `(i  1 e 2 0 ]
+{
+"39
+[v adcRead@ADvalor ADvalor `ui  1 a 2 2 ]
+"38
+[v adcRead@channel channel `ui  1 p 2 0 ]
+"53
+} 0
+"25
+[v _adcInit adcInit `(v  1 e 1 0 ]
+{
+"36
+} 0
+"54 C:\Users\Windows\MPLABXProjects\ProjFinal.X\io.c
+[v _pinMode pinMode `(v  1 e 1 0 ]
+{
+[v pinMode@pin pin `i  1 p 2 0 ]
+[v pinMode@type type `i  1 p 2 2 ]
+"73
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+{
+"10
+[v ___awmod@sign sign `uc  1 a 1 13 ]
+[v ___awmod@counter counter `uc  1 a 1 12 ]
+"7
+[v ___awmod@dividend dividend `i  1 p 2 8 ]
+[v ___awmod@divisor divisor `i  1 p 2 10 ]
+"34
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c99\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"10
+[v ___awdiv@quotient quotient `i  1 a 2 6 ]
+"11
+[v ___awdiv@sign sign `uc  1 a 1 5 ]
+[v ___awdiv@counter counter `uc  1 a 1 4 ]
+"7
+[v ___awdiv@dividend dividend `i  1 p 2 0 ]
+[v ___awdiv@divisor divisor `i  1 p 2 2 ]
+"41
+} 0
